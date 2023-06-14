@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="generated.xsl"?>
+<gun>
+    <foregrip>
+        <foregripName>HK Sturmgriff foregrip</foregripName>
+        <id>166</id>
+    </foregrip>
+    <gunCaliber>5.56</gunCaliber>
+    <gunColor>Black</gunColor>
+    <gunId>165</gunId>
+    <gunName>Colt M4A1 5.56x45 assault rifle</gunName>
+    <gunWeight>3.54</gunWeight>
+    <handguard>
+        <handguardId>167</handguardId>
+        <handguardName>HK 416A5 MRS KeyMod 14 inch handguard </handguardName>
+        <handguardWeight>0.39</handguardWeight>
+    </handguard>
+    <magazine>
+        <magazineCaliber>5.56</magazineCaliber>
+        <magazineCapacity>30</magazineCapacity>
+        <magazineId>168</magazineId>
+        <magazineName>5.56x45 HK PM Gen.2 STANAG 30-round magazine</magazineName>
+        <magazineWeight>0.16</magazineWeight>
+    </magazine>
+    <sights>
+        <sightingRange>600.0</sightingRange>
+        <sightsId>170</sightsId>
+        <sightsName>EOTech HHS-1 hybrid sight</sightsName>
+        <sightsWeight>0.635</sightsWeight>
+    </sights>
+    <sights>
+        <sightingRange>800.0</sightingRange>
+        <sightsId>171</sightsId>
+        <sightsName>Trijicon ACOG TA01NSN 4x32 scope </sightsName>
+        <sightsWeight>0.396</sightsWeight>
+    </sights>
+    <suppressor>
+        <suppressorId>169</suppressorId>
+        <suppressorMuzzleVelocity>0.75</suppressorMuzzleVelocity>
+        <suppressorName>Rotor 43 5.56x45 muzzle brake-compensator </suppressorName>
+        <suppressorWeight>0.57</suppressorWeight>
+    </suppressor>
+</gun>
